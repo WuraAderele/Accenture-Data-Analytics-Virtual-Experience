@@ -1,4 +1,4 @@
-# Data Visualization and Story telling
+# Data Visualization and Storytelling
 ## Background of task
 As a data analyst, it is important that you work with both the business and the data. Now that you have gained the business understanding, it’s time to put your analysis skills to the test. 
 
